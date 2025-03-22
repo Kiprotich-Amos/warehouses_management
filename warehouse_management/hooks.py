@@ -1,6 +1,6 @@
 app_name = "warehouse_management"
 app_title = "Warehouse Management"
-app_publisher = "kiprotichamoh11@gmail.com"
+app_publisher = "Amos kiprotich Rono"
 app_description = "Warehouse Management System"
 app_email = "kiprotichamoh11@gmail.com"
 app_license = "mit"
